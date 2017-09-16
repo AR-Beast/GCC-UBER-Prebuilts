@@ -55,7 +55,6 @@ Software development
 * Bfd: (bfd).                   The Binary File Descriptor library.
 * Binutils: (binutils).         The GNU binary utilities.
 * Cpp: (cpp).                   The GNU C preprocessor.
-* Cpplib: (cppinternals).       Cpplib internals.
 * Gas: (as).                    The GNU assembler.
 * Ld: (ld).                     The GNU linker.
 * gccinstall: (gccinstall).     Installing the GNU Compiler Collection.
